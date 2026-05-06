@@ -1,0 +1,23 @@
+PHYND/
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── notebooks/
+│   ├── PHYND_CRISM_highT_mineral_assemblage.ipynb
+│   └── PHYND_CRISM_highT_mineral_assemblage_GEE.ipynb
+│
+├── phynd/
+│   ├── __init__.py
+│   ├── io.py
+│   ├── preprocessing.py
+│   ├── indices.py
+│   ├── segmentation.py
+│   └── visualization.py
+│
+├── data/
+│   └── README.md
+│
+└── figures/
+    └── README.md
