@@ -10,18 +10,16 @@ impact‑generated hydrothermal processes.
 
 ## Scientific motivation
 
-Low‑temperature assemblages are characterized by combinations of H₂O, OH
-overtone, and Al‑, Fe‑, and Mg‑OH absorptions diagnostic of smectite minerals
+Low‑temperature assemblages are characterized by endmember smectite minerals
 such as **montmorillonite**, **nontronite**, and **saponite**. High‑temperature
-assemblages are characterized by broader Fe/Mg‑OH absorption basins and
-associated OH features consistent with **chlorite‑**, **illite‑**,
+assemblages are characterized by endmember **chlorite‑**, **illite‑**,
 **prehnite‑**, and **epidote‑bearing** alteration.
 
 Composite band‑depth images (post atmospheric correction) are constructed for
 each assemblage type to improve robustness to noise and sub‑pixel mixing at
-CRISM spectral and spatial resolution. The low‑ and high‑temperature
+CRISM spectral and spatial resolution. The low‑ and high‑temperature assemblage
 classifications refer to inferred formation conditions of mineral assemblages,
-rather than to individual absorption band chemistry alone.
+rather than to individual absorption band chemistry or unique mineral identificaion.
 
 
 ## Method overview
@@ -44,6 +42,6 @@ spatial context to identify candidate alteration assemblages. The tool outputs:
   features.
 
 No unique mineral identification beyond CRISM spectral resolving capability is
-attempted; results are intended to identify mineral assemblage classes and
-their spatial context.
+attempted; results are intended to identify mineral assemblage-level temperature classes and
+their spatial context, supporting interpretation of alteration processes within impact crater envrionments.
 
